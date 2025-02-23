@@ -62,4 +62,4 @@
 ---
 
 <h3 align="center">Support My Work</h3>
-<p align="center"><a href="https://ko-fi.com/salehye"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me" /></a></p>
+
