@@ -50,11 +50,14 @@
 ---
 
 <details><summary>GitHub Stats</summary>
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=salehye&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehye&theme=dark" alt="Streak Stats" /> |
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=salehye&show_icons=true&theme=dark&locale=en" alt="felipeelia" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehye&theme=dark" alt="felipeelia" /> |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehye&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /> |
+
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehye&show_icons=true&theme=dark&locale=en&layout=compact" alt="felipeelia" /> |
 | :---: |
-</details>
+
+</details><br><br>
 
 ---
 
