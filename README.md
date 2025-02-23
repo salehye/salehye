@@ -1,11 +1,11 @@
 <h1>👋 Hi, I'm Saleh</h1>
-<h3>Full Stack Web Developer & Software Engineer</h3>
+<h3>Software Engineer & Full Stack Web Developer</h3>
 
 - 🔭 Currently working on **scalable web applications** using modern technologies.
 - 🌱 Exploring new tools and frameworks to enhance development workflows.
 - 👯 Looking to collaborate on open-source projects related to **PHP, Laravel, React, Vue.js, and Python**.
 - 💬 Ask me about **Full Stack Development, Backend Optimization, or DevOps**.
-- 📫 Reach out to me: [Contact Me](https://your-contact-link.com)
+- 📫 Reach out to me: [Contact Me](https://github.com/salehye)
 
 ---
 
@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-    <a href="https://twitter.com/YourTwitter" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" /></a>&nbsp;
-    <a href="https://linkedin.com/in/YourLinkedIn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>&nbsp;
-    <a href="https://github.com/YourGitHub" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" height="30" /></a>&nbsp;
-    <a href="https://instagram.com/YourInstagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>&nbsp;
+    <a href="https://twitter.com/salehye" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" /></a>&nbsp;
+    <a href="https://linkedin.com/in/salehye" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>&nbsp;
+    <a href="https://github.com/salehye" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" height="30" /></a>&nbsp;
+    <a href="https://instagram.com/salehye" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>&nbsp;
 </p>
 
 ---
@@ -50,15 +50,13 @@
 ---
 
 <details><summary>GitHub Stats</summary>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=salehye&show_icons=true&theme=dark&locale=en" alt="felipeelia" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeelia&theme=dark" alt="felipeelia" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=salehye&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salehye&theme=dark" alt="Streak Stats" /> |
 | :---: | :---: |
-
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehye&show_icons=true&theme=dark&locale=en&layout=compact" alt="felipeelia" /> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salehye&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" /> |
 | :---: |
+</details>
 
-</details><br><br>
 ---
 
 <h3 align="center">Support My Work</h3>
-<p align="center"><a href="https://ko-fi.com/YourKofiLink"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me" /></a></p>
+<p align="center"><a href="https://ko-fi.com/salehye"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support Me" /></a></p>
